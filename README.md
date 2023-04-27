@@ -43,6 +43,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/AntonioEzequie/AntonioEzequie/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/manuteu/manuteu/blob/output/github-contribution-grid-snake.svg)
 
 ###
+
