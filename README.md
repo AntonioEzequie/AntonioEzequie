@@ -1,10 +1,7 @@
 
 
 ### Antonio Ezequiel Rodrigues Miranda  
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+
 
 <br/>  
 
