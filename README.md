@@ -43,7 +43,7 @@
 
 ###
 
-![Snake animation](https://github.com/manuteu/manuteu/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/AntonioEzequie/AntonioEzequie/blob/output/github-contribution-grid-snake.svg)
 
 ###
 
